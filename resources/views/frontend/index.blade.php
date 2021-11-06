@@ -12,7 +12,7 @@
             <div class="w-100">
                 <search-engine></search-engine>
             </div>
-            <div class="w-100">
+            <!--<div class="w-100">
                 <p>
                     熱門話題:
                     <a class="color-danger" style="text-decoration: underline;" href="https://github.com/init-engineer/init.engineer" target="_blank">純靠北工程師</a>
@@ -21,16 +21,16 @@
                     <a class="color-primary" style="text-decoration: underline;" href="https://www.youtube.com/watch?v=072tU1tamd0" target="_blank">統神端火鍋</a>
                     <a class="color-primary" style="text-decoration: underline;" href="https://news.pts.org.tw/article/514964" target="_blank">全民買鳳梨</a>
                 </p>
-            </div>
+            </div>-->
         </div>
-        <div class="col-12 col-md-12 col-lg-2 mx-auto" style="display: flex; flex-direction: column; justify-content: center;">
+        <!--<div class="col-12 col-md-12 col-lg-2 mx-auto" style="display: flex; flex-direction: column; justify-content: center;">
             <div class="w-100 bg-color-primary card">
                 <div class="card-body p-2">
                     <p class="card-text">不習慣新介面嗎？如果需要，您可以透過我們的時光機，切換成經典版純靠北工程師。</p>
                     <button class="btn btn-block btn-primary-bg" onclick="Swal.fire('噢哦！', '版主並沒有寫「切換回經典版 純靠北工程師」的功能。', 'warning');">我想回去舊版頁面</button>
                 </div>
             </div>
-        </div>
+        </div>-->
     </div>
 
     <div class="row flex-column-reverse flex-md-row my-2">
@@ -113,7 +113,7 @@
                     <a class="my-2" href="{{ route('frontend.social.cards.index') }}"><img class="w-100" src="{{ asset('/img/frontend/button/tools-button-post-list.png') }}" alt="文章列表"></a>
                 </div>
             </div>
-
+	    <!--
             <div class="pb-2">
                 <label class="pt-2 col-label bg-color-primary color-color-primary">好心人斗內一下</label>
                 <div class="w-100 mb-2 p-2 bg-color-primary">
@@ -123,6 +123,7 @@
                     </div>
                 </div>
             </div>
+	    -->
         </div>
     </div>
 </div>
