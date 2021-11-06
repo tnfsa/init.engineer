@@ -20,7 +20,7 @@
                             <div class="col">
                                 <div class="form-group clearfix">
                                     <!-- Introduction -->
-                                    <h3><strong>{{ $client->name }}</strong>正在請求訪問您<a href="{{ route('frontend.index') }}">純靠北工程師</a>帳號的權限。</h3>
+                                    <h3><strong>{{ $client->name }}</strong>正在請求訪問您<a href="{{ route('frontend.index') }}">靠北南一中</a>帳號的權限。</h3>
 
                                     <!-- Scope List -->
                                     @if (count($scopes) > 0)

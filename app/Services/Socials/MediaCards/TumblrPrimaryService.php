@@ -150,14 +150,14 @@ class TumblrPrimaryService extends BaseService implements SocialCardsContract
      */
     public function buildContent($content = '', array $options = []): string
     {
-        return '<div>#純靠北工程師' . base_convert($options['id'], 10, 36) . '<br /><hr /><br />' .
+        return '<div>#靠北南一中' . base_convert($options['id'], 10, 36) . '<br /><hr /><br />' .
             '<div>' . nl2br($content) . '</div><br /><hr /><br />' .
             '<p>💖 純靠北 官方 Discord 歡迎在這找到你的同溫層！</p>' .
             '<p>👉 <a href="https://discord.gg/tPhnrs2">https://discord.gg/tPhnrs2</a></p>' .
             '<br /><hr /><br />' .
             '<p>💖 全平台留言、文章詳細內容</p>' .
-            '<p>👉 <a href="' . "https://init.engineer/cards/show/" . $options['id'] . '">' . "https://init.engineer/cards/show/" . $options['id'] . '</a></p>';
-        // return '<div>#純靠北工程師' . base_convert($options['id'], 10, 36) . '<br /><hr /><br />' .
+            '<p>👉 <a href="' . "https://kaobei.tnfsa.org/cards/show/" . $options['id'] . '">' . "https://kaobei.tnfsa.org/cards/show/" . $options['id'] . '</a></p>';
+        // return '<div>#靠北南一中' . base_convert($options['id'], 10, 36) . '<br /><hr /><br />' .
         //     '<div>' . nl2br($content) . '</div><br /><hr /><br />' .
         //     '<p>🗳️ [群眾審核] <a href="' . route('frontend.social.cards.review') . '">' . route('frontend.social.cards.create') . '</a></p>' .
         //     '<p>👉 [GitHub] <a href="https://github.com/init-engineer/init.engineer">init-engineer/init.engineer</a></p>' .

@@ -982,7 +982,7 @@ class ImagesService extends BaseService implements ImagesContract
      */
     private function getImageUrl(string $url)
     {
-        // return 'https://init.engineer/' . $url;
+        // return 'https://kaobei.tnfsa.org/' . $url;
         return asset($url);
     }
 }

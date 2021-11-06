@@ -195,7 +195,7 @@ export default {
   transition: 0.3s;
 }
 .vote-list-content li:nth-child(1)::before {
-  content: "工程師的法槌";
+  content: "南一中的法槌";
 }
 .vote-list-content li:nth-child(2)::before {
   content: "究極審判長";

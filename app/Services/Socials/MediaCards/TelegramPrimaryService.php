@@ -104,16 +104,16 @@ class TelegramPrimaryService extends BaseService implements SocialCardsContract
     {
         $_content = Str::limit($content, 800, ' ...');
 
-        return '#純靠北工程師' . base_convert($options['id'], 10, 36) . "\n\r----------\n\r" .
+        return '#靠北南一中' . base_convert($options['id'], 10, 36) . "\n\r----------\n\r" .
         $_content . "\n\r" .
         "\n\r----------\n\r" .
         "💖 純靠北官方 Discord 歡迎在這找到你的同溫層！\n\r" .
         "👉 https://discord.gg/tPhnrs2\n\r" .
         "\n\r----------\n\r" .
         "💖 全平台留言、文章詳細內容\n\r" .
-        "👉 https://init.engineer/cards/show/" . $options['id'];
+        "👉 https://kaobei.tnfsa.org/cards/show/" . $options['id'];
 
-        // return '#純靠北工程師' . base_convert($options['id'], 10, 36) . "\n\r----------\n\r" .
+        // return '#靠北南一中' . base_convert($options['id'], 10, 36) . "\n\r----------\n\r" .
         //     $_content . "\n\r----------\n\r" .
         //     '🗳️ [群眾審核] ' . route('frontend.social.cards.review') . "\n\r" .
         //     '👉 [GitHub Repo] https://github.com/init-engineer/init.engineer' . "\n\r" .

@@ -70,8 +70,8 @@ class CardsService extends BaseService implements CardsContract
                 'json' => [
                     "embeds" => [
                         [
-                            "title" => "#純靠北工程師" . base_convert($cards->id, 10, 36),
-                            "url" => "https://init.engineer/cards/show/" . $cards->id,
+                            "title" => "#靠北南一中" . base_convert($cards->id, 10, 36),
+                            "url" => "https://kaobei.tnfsa.org/cards/show/" . $cards->id,
                             "description" => $cards->content,
                             "color" => 15258703,
                             "image" => [
@@ -97,8 +97,8 @@ class CardsService extends BaseService implements CardsContract
                 'json' => [
                     "embeds" => [
                         [
-                            "title" => "#純靠北工程師" . base_convert($cards->id, 10, 36),
-                            "url" => "https://init.engineer/cards/show/" . $cards->id,
+                            "title" => "#靠北南一中" . base_convert($cards->id, 10, 36),
+                            "url" => "https://kaobei.tnfsa.org/cards/show/" . $cards->id,
                             "description" => $cards->content,
                             "color" => 15258703,
                             "image" => [

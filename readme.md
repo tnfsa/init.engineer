@@ -1,8 +1,8 @@
 <p align="center">
 	<a href="https://kaobei.engineer"><img src="https://i.imgur.com/iuP8yS0.png" alt="INIT.ENGINEER" width="300"></a>
 </p>
-<h3 align="center">喜歡純靠北工程師？我們也是。</h3>
-<p align="center">這是一份純靠北工程師的專案，請好好愛護它，謝謝。</p>
+<h3 align="center">喜歡靠北南一中？我們也是。</h3>
+<p align="center">這是一份靠北南一中的專案，請好好愛護它，謝謝。</p>
 <p align="center">
     <a href="https://www.facebook.com/init.kobeengineer" title="facebook init"><img src="https://img.shields.io/badge/facebook-@init.kobeengineer-3b5998.svg" alt="facebook init" /></a>
     <a href="https://www.facebook.com/kaobei.engineer" title="facebook testing"><img src="https://img.shields.io/badge/facebook-@kaobei.engineer-3b5998.svg" alt="facebook testing" /></a>
@@ -17,11 +17,11 @@
 ---
 ## 簡介
 
-哈囉大家好，我是誰並不重要，重要的是你知道純靠北工程師 `v3.0` 計畫嗎？不知道沒關係，因為那本來就是只有我跟我自己討論出來的東西，不過現在我想把喜悅分享給大家。
+哈囉大家好，我是誰並不重要，重要的是你知道靠北南一中 `v3.0` 計畫嗎？不知道沒關係，因為那本來就是只有我跟我自己討論出來的東西，不過現在我想把喜悅分享給大家。
 
-[GitHub - Kantai235/init.engineer: 這是一份純靠北工程師的專案，請好好愛護它，謝謝。](https://github.com/Kantai235/init.engineer)
+[GitHub - Kantai235/init.engineer: 這是一份靠北南一中的專案，請好好愛護它，謝謝。](https://github.com/Kantai235/init.engineer)
 
-這是一項純靠北工程師 `v3.0` 的專案，原本計畫寫完再開源出來，但還沒寫完就在那邊公開了，有夠自肥自大的。
+這是一項靠北南一中 `v3.0` 的專案，原本計畫寫完再開源出來，但還沒寫完就在那邊公開了，有夠自肥自大的。
 
 身為閱讀者的你，也是可以一起享受這份喜悅這份快樂的，你只要依照 `README.md` 的[安裝](https://github.com/Kantai235/init.engineer#安裝)步驟，基本上應該可以把這網站架起來，如果沒意外的話啦，然後看看首頁乾乾過癮。
 

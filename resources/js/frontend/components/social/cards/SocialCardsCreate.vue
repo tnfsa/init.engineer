@@ -2,7 +2,7 @@
   <div>
     <marquee-text class="mb-3">
       <h1 class="color-color-primary">
-        發源自臉書──全台最大工程師廢文社群 (´◓Д◔`) 我看你是不夠敏捷ㄛ？
+        發源自臉書──全台最大南一中廢文社群 (´◓Д◔`) 我看你是不夠敏捷ㄛ？
       </h1>
     </marquee-text>
 
@@ -922,12 +922,12 @@ export default {
             this.canvas.height - 160
           );
           this.canvas.ctx.fillText(
-            "純靠北工程師 0xINIT_ENGINEER",
+            "靠北南一中 0xINIT_ENGINEER",
             228,
             this.canvas.height - 120
           );
           this.canvas.ctx.fillText(
-            "請訪問 https://init.engineer",
+            "請訪問 https://kaobei.tnfsa.org",
             228,
             this.canvas.height - 40
           );
@@ -941,7 +941,7 @@ export default {
           this.canvas.ctx.font = "36px " + this.canvas.font;
           this.canvas.ctx.fillStyle = this.canvas.color;
           this.canvas.ctx.fillText(
-            "純靠北工程師",
+            "靠北南一中",
             this.canvas.width - 232,
             this.canvas.height - 24
           );
@@ -955,7 +955,7 @@ export default {
           this.canvas.ctx.font = "36px " + this.canvas.font;
           this.canvas.ctx.fillStyle = this.canvas.color;
           this.canvas.ctx.fillText(
-            "純靠北工程師",
+            "靠北南一中",
             this.canvas.width - 232,
             this.canvas.height - 24
           );
@@ -965,7 +965,7 @@ export default {
           this.canvas.ctx.font = "36px " + this.canvas.font;
           this.canvas.ctx.fillStyle = this.canvas.color;
           this.canvas.ctx.fillText(
-            "純靠北工程師",
+            "靠北南一中",
             this.canvas.width - 232,
             this.canvas.height - 24
           );
@@ -1100,11 +1100,11 @@ export default {
         return;
       }
 
-      if (-1 !== this.canvas.content.search('靠北工程師') &&
-          -1 === this.canvas.content.search('純靠北工程師')) {
+      if (-1 !== this.canvas.content.search('靠北南一中') &&
+          -1 === this.canvas.content.search('靠北南一中')) {
         Swal.fire(
-          "由於此投稿不符合純靠北工程師版規，內容已遭否決。",
-          "這裡是「純」靠北工程師。",
+          "由於此投稿不符合靠北南一中版規，內容已遭否決。",
+          "這裡是「純」靠北南一中。",
           "error"
         );
         return;

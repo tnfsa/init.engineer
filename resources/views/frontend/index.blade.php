@@ -15,7 +15,7 @@
             <!--<div class="w-100">
                 <p>
                     熱門話題:
-                    <a class="color-danger" style="text-decoration: underline;" href="https://github.com/init-engineer/init.engineer" target="_blank">純靠北工程師</a>
+                    <a class="color-danger" style="text-decoration: underline;" href="https://github.com/init-engineer/init.engineer" target="_blank">靠北南一中</a>
                     <a class="color-color-primary" style="text-decoration: underline;" href="https://www.youtube.com/watch?v=_6TtTRrno3E&list=PL12UaAf_xzfq1Qw3hO43WvcgAo_Sju6Ix" target="_blank">天竺鼠車車</a>
                     <a class="color-danger" style="text-decoration: underline;" href="https://www.youtube.com/watch?v=rU4k1jRAO3I" target="_blank">HowHow 素材</a>
                     <a class="color-primary" style="text-decoration: underline;" href="https://www.youtube.com/watch?v=072tU1tamd0" target="_blank">統神端火鍋</a>
@@ -26,8 +26,8 @@
         <!--<div class="col-12 col-md-12 col-lg-2 mx-auto" style="display: flex; flex-direction: column; justify-content: center;">
             <div class="w-100 bg-color-primary card">
                 <div class="card-body p-2">
-                    <p class="card-text">不習慣新介面嗎？如果需要，您可以透過我們的時光機，切換成經典版純靠北工程師。</p>
-                    <button class="btn btn-block btn-primary-bg" onclick="Swal.fire('噢哦！', '版主並沒有寫「切換回經典版 純靠北工程師」的功能。', 'warning');">我想回去舊版頁面</button>
+                    <p class="card-text">不習慣新介面嗎？如果需要，您可以透過我們的時光機，切換成經典版靠北南一中。</p>
+                    <button class="btn btn-block btn-primary-bg" onclick="Swal.fire('噢哦！', '版主並沒有寫「切換回經典版 靠北南一中」的功能。', 'warning');">我想回去舊版頁面</button>
                 </div>
             </div>
         </div>-->
@@ -35,7 +35,7 @@
 
     <div class="row flex-column-reverse flex-md-row my-2">
         <div class="col-12 col-md-4 col-lg-2 mx-auto my-2">
-            <label class="col-label bg-color-primary color-color-primary">純靠北工程師 Discord</label>
+            <label class="col-label bg-color-primary color-color-primary">靠北南一中 Discord</label>
             <iframe src="https://discord.com/widget?id=508513350964084736&theme=dark" width="100%" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
         </div>
@@ -68,7 +68,7 @@
                         <tr><th scope="row" style="border-top: 0px;">
                             ["臉書社團":[
                             "<a href="https://www.facebook.com/groups/1182255762153380" target="_blank">程式語言讀書會</a>",&nbsp;
-                            "<a href="https://www.facebook.com/groups/kaobei.engineer" target="_blank">純靠北工程師 同溫層</a>",&nbsp;
+                            "<a href="https://www.facebook.com/groups/kaobei.engineer" target="_blank">靠北南一中 同溫層</a>",&nbsp;
                             "<a href="https://www.facebook.com/groups/616369245163622" target="_blank">Backend 台灣</a>"]]
                         </th></tr>
                         <tr><th scope="row" style="border-top: 0px;">

@@ -56,7 +56,7 @@
         />
         <div class="card-body py-0 px-1">
           <div class="card-text text-dark d-flex justify-content-between">
-            <div class="p-1">#純靠北工程師{{ card.id.toString(36) }}</div>
+            <div class="p-1">#靠北南一中{{ card.id.toString(36) }}</div>
             <div class="p-1">{{ card.created_diff }}</div>
             <div class="p-1">
               <a :href="`/cards/show/${card.id}`" class="ml-auto p-1"
