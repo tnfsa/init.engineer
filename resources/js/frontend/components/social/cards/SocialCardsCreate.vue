@@ -902,12 +902,12 @@ export default {
             this.canvas.height - 160
           );
           this.canvas.ctx.fillText(
-            "純靠北工程師 0xINIT_ENGINEER",
+            "靠北南一中 0xINIT_TNFSH",
             228,
             this.canvas.height - 120
           );
           this.canvas.ctx.fillText(
-            "請訪問 https://init.engineer",
+            "請訪問 https://kaobei.tnfsa.org",
             228,
             this.canvas.height - 40
           );
@@ -990,7 +990,7 @@ export default {
           this.canvas.ctx.font = "36px " + this.canvas.font;
           this.canvas.ctx.fillStyle = this.canvas.color;
           this.canvas.ctx.fillText(
-            "發文傳送門 https://init.engineer",
+            "發文傳送門 https://kaobei.tnfsa.org",
             16,
             this.canvas.height - 24
           );
